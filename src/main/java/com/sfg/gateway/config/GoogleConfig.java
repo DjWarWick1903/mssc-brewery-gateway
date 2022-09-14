@@ -9,8 +9,8 @@ import org.springframework.context.annotation.Profile;
 /**
  * Configuration class made as example to demonstrate Spring Cloud Gateway
  */
-@Profile("google")
-@Configuration
+/*@Profile("google")
+@Configuration*/
 public class GoogleConfig {
 
     @Bean
